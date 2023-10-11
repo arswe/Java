@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="069cc3de-b5df-4c58-90fa-c5ef9948f51b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/ConstructorInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/ConstructorInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/CreatingAnInterface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/TaxCalculator2023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/TextReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/CreatingAnInterface/src/TextReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/DependencyInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/DependencyInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/MultipleInheritances/src/AnimalTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Inheritances/MultipleInheritances/src/AnimalTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/SetterInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/out/production/SetterInjection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/out/production/SetterInjection/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/out/production/SetterInjection/TaxCalculator2023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/out/production/SetterInjection/TaxCalculator2024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/out/production/SetterInjection/TaxReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/src/TaxCalculator2024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/SetterInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/TightlyCoupled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritances/TightlyCoupled/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/ProjectMyTubeVideo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/src/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/src/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/src/VideoDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/src/VideoEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectMyTubeVideo/src/VideoProcessor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Luo4k3hM3A4t071eOAnaujGdZb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="069cc3de-b5df-4c58-90fa-c5ef9948f51b" name="Changes" comment="" />
+      <created>1676730140362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676730140362</updated>
+      <workItem from="1676730141277" duration="1202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

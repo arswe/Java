@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5605a79d-96b9-4c5c-98db-375fe2229ec8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/ComparisonOperators/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/FizzBuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/out/production/FizzBuzz/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/FizzBuzz/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/LogicalOperators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/out/production/LogicalOperators/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/LogicalOperators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/Project- Mortgage Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/Project- Mortgage Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/Project- Mortgage Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/Project- Mortgage Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Control Flow/Project- Mortgage Calculator/Project- Mortgage Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions/Abstractions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions/src/Employee.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LlGyVMcyUxidQJ01HfIvRrykPT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5605a79d-96b9-4c5c-98db-375fe2229ec8" name="Changes" comment="" />
+      <created>1676438512541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676438512541</updated>
+      <workItem from="1676438512542" duration="1157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

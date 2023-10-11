@@ -1,0 +1,16 @@
+// mortgage calculator
+public class Main {
+
+    public static void main(String[] args) {
+        int principal = (int) Console.readNumber("Principal: ", 1000, 1_000_000);
+        float annualInterest = (float) Console.readNumber("Annual Interest Rate: ", 1, 30);
+        byte years = (byte) Console.readNumber("Period (Years): ", 1, 30);
+
+        var calculator = new MortgageCalculator(principal, annualInterest, years); // create a new calculator
+        var report = new MortgageReport(calculator); // create a new report
+
+        report.printMortgage(); // print mortgage amount (monthly payment)
+        report.printPaymentSchedule(); // print payment schedule (remaining balances)
+    }
+
+}

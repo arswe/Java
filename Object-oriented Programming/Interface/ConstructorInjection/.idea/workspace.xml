@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8287226-4286-4289-a35e-6160e5c906fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/CreatingAnInterface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/out/production/CreatingAnInterface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/out/production/CreatingAnInterface/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/out/production/CreatingAnInterface/TaxCalculator2023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/out/production/CreatingAnInterface/TextReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatingAnInterface/src/TextReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/DependencyInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultipleInheritances/src/AnimalTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultipleInheritances/src/AnimalTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/TightlyCoupled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TightlyCoupled/src/TaxReport.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Luc9t6xSfMgs1hYjqluZhJjNhG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8287226-4286-4289-a35e-6160e5c906fa" name="Changes" comment="" />
+      <created>1676724263153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676724263153</updated>
+      <workItem from="1676724263165" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
