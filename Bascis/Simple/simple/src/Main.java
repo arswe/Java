@@ -6,5 +6,9 @@ public class Main {
         Date now = new Date();
         System.out.println("now: "+ now);
 
+        System.out.println("Hello World!");
+
+        System.out.println("now: "+ now);
+
     }
 }
