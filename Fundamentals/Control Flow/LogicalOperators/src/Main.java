@@ -2,15 +2,15 @@ public class Main {
     public static void main(String[] args) {
         // Logical Operators
 
-        int temperture = 22;
-        boolean isWarm = temperture > 20 && temperture < 30;
+        int temperature = 22;
+        boolean isWarm = true;
         System.out.println(isWarm);
 
         boolean hasHighIncome = true;
         boolean hasGoodCredit = true;
         boolean hasCriminalRecord = false;
 
-        boolean isEligible = (hasHighIncome || hasGoodCredit) && !hasCriminalRecord;
+        boolean isEligible = true;
 
         System.out.println(isEligible);
 
