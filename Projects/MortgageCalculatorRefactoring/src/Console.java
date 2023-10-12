@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Console {
     private static Scanner scanner = new Scanner(System.in); // create a new scanner
+
     public static double readNumber(String prompt) {
         return scanner.nextDouble(); // read a number from the console
     }
