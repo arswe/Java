@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/AbstractClassesAndMethods/AbstractClassesAndMethods.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/AbstractClassesAndMethods/AbstractClassesAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/AccessModifiers/AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advanced/Advanced.iml" filepath="$PROJECT_DIR$/Advanced/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/ArithmeticExpressions/ArithmeticExpressions.iml" filepath="$PROJECT_DIR$/Fundamentals/types/ArithmeticExpressions/ArithmeticExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Fundamentals/types/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bascis/Bascis.iml" filepath="$PROJECT_DIR$/Bascis/Bascis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/ClassesAndObjects/ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Clean Coding/Clean Coding.iml" filepath="$PROJECT_DIR$/Fundamentals/Clean Coding/Clean Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Control Flow/ComparisonOperators/ComparisonOperators.iml" filepath="$PROJECT_DIR$/Fundamentals/Control Flow/ComparisonOperators/ComparisonOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/Constants/Constants.iml" filepath="$PROJECT_DIR$/Fundamentals/types/Constants/Constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/ConstructorInjection/ConstructorInjection.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/ConstructorInjection/ConstructorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/ConstructorsAndInheritance/ConstructorsAndInheritance.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/ConstructorsAndInheritance/ConstructorsAndInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/Coupling/Coupling.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/Coupling/Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/CreatingAnInterface/CreatingAnInterface.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/CreatingAnInterface/CreatingAnInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Debugging and Deploying Applications/Debuggings/Debuggings.iml" filepath="$PROJECT_DIR$/Fundamentals/Debugging and Deploying Applications/Debuggings/Debuggings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/DependencyInjection/DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/Encapsulations/Encapsulations.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/Encapsulations/Encapsulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/EscapeSequence/EscapeSequence.iml" filepath="$PROJECT_DIR$/Fundamentals/types/EscapeSequence/EscapeSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/Fields/Fields.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/Fields/Fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/FinalClassesAndMethods/FinalClassesAndMethods.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/FinalClassesAndMethods/FinalClassesAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Control Flow/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Fundamentals/Control Flow/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/FormattingNumbers/FormattingNumbers.iml" filepath="$PROJECT_DIR$/Fundamentals/types/FormattingNumbers/FormattingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Control Flow/LogicalOperators/LogicalOperators.iml" filepath="$PROJECT_DIR$/Fundamentals/Control Flow/LogicalOperators/LogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/MemoryAllocation/MemoryAllocation.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/MemoryAllocation/MemoryAllocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/MethodInjection/MethodInjection.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/MethodInjection/MethodInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/MortgageCalculatorRefactoring/MortgageCalculatorRefactoring.iml" filepath="$PROJECT_DIR$/Projects/MortgageCalculatorRefactoring/MortgageCalculatorRefactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/MultiDimensionalArrays/MultiDimensionalArrays.iml" filepath="$PROJECT_DIR$/Fundamentals/types/MultiDimensionalArrays/MultiDimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/MultipleInheritances/MultipleInheritances.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/MultipleInheritances/MultipleInheritances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/OrderofOperations/OrderofOperations.iml" filepath="$PROJECT_DIR$/Fundamentals/types/OrderofOperations/OrderofOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/OverridingMethods/OverridingMethods.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/OverridingMethods/OverridingMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Debugging and Deploying Applications/Packagings/Packagings.iml" filepath="$PROJECT_DIR$/Fundamentals/Debugging and Deploying Applications/Packagings/Packagings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/Polymorphisms/Polymorphisms.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/Polymorphisms/Polymorphisms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/ProceduralProgramming/ProceduralProgramming.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/ProceduralProgramming/ProceduralProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Control Flow/Project- Mortgage Calculator/Project- Mortgage Calculator.iml" filepath="$PROJECT_DIR$/Fundamentals/Control Flow/Project- Mortgage Calculator/Project- Mortgage Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/Project-MortgageCalculator/Project-MortgageCalculator.iml" filepath="$PROJECT_DIR$/Fundamentals/types/Project-MortgageCalculator/Project-MortgageCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/ProjectMyTubeVideo/ProjectMyTubeVideo.iml" filepath="$PROJECT_DIR$/Projects/ProjectMyTubeVideo/ProjectMyTubeVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/ReadingInput/ReadingInput.iml" filepath="$PROJECT_DIR$/Fundamentals/types/ReadingInput/ReadingInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/ReducingCoupling/ReducingCoupling.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/ReducingCoupling/ReducingCoupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Refactoring Towards an Object-oriented Design/Refactoring Towards an Object-oriented Design.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Refactoring Towards an Object-oriented Design/Refactoring Towards an Object-oriented Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/SetterInjection/SetterInjection.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/SetterInjection/SetterInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Classes/StaticMembers/StaticMembers.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Classes/StaticMembers/StaticMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/Strings/Strings.iml" filepath="$PROJECT_DIR$/Fundamentals/types/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/TheMathClass/TheMathClass.iml" filepath="$PROJECT_DIR$/Fundamentals/types/TheMathClass/TheMathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/TheObjectClass/TheObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Interface/TightlyCoupled/TightlyCoupled.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Interface/TightlyCoupled/TightlyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented Programming/Inheritances/UpcastingAndDowncasting/UpcastingAndDowncasting.iml" filepath="$PROJECT_DIR$/Object-oriented Programming/Inheritances/UpcastingAndDowncasting/UpcastingAndDowncasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Debugging and Deploying Applications/typeOfErrors/typeOfErrors.iml" filepath="$PROJECT_DIR$/Fundamentals/Debugging and Deploying Applications/typeOfErrors/typeOfErrors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/types/types/types.iml" filepath="$PROJECT_DIR$/Fundamentals/types/types/types.iml" />
+    </modules>
+  </component>
+</project>
