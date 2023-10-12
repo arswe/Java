@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Classes.iml" filepath="$PROJECT_DIR$/.idea/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coupling/Coupling.iml" filepath="$PROJECT_DIR$/Coupling/Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatingClasses/CreatingClasses.iml" filepath="$PROJECT_DIR$/CreatingClasses/CreatingClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulations/Encapsulations.iml" filepath="$PROJECT_DIR$/Encapsulations/Encapsulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoryAllocation/MemoryAllocation.iml" filepath="$PROJECT_DIR$/MemoryAllocation/MemoryAllocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProceduralProgramming/ProceduralProgramming.iml" filepath="$PROJECT_DIR$/ProceduralProgramming/ProceduralProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReducingCoupling/ReducingCoupling.iml" filepath="$PROJECT_DIR$/ReducingCoupling/ReducingCoupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticMembers/StaticMembers.iml" filepath="$PROJECT_DIR$/StaticMembers/StaticMembers.iml" />
+    </modules>
+  </component>
+</project>
