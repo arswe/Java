@@ -2,6 +2,7 @@ public class Employee {
     private int baseSalary;
     private int hourlyRate;
 
+
     public Employee(int baseSalary, int hourlyRate) {
         setBaseSalary(baseSalary);
         setHourlyRate(hourlyRate);
