@@ -14,22 +14,21 @@ public class MortgageCalculator {
     public double calculateBalance(short numberOfPaymentsMade) {
         float monthlyInterest = getMonthlyInterest(); // monthly interest rate (APR / 12)
         short numberOfPayments = getNumberOfPayments(); // number of payments (years * 12)
-        double balance = principal
-                * (Math.pow(1 + monthlyInterest, numberOfPayments) - Math.pow(1 + monthlyInterest, numberOfPaymentsMade))
-                / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1); // mortgage formula
 
-        return balance; // return the balance
+        return principal
+                * (Math.pow(1 + monthlyInterest, numberOfPayments) - Math.pow(1 + monthlyInterest, numberOfPaymentsMade))
+                / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1); // return the balance
     }
+
 
 
     public double calculateMortgage() {
         float monthlyInterest = getMonthlyInterest(); // monthly interest rate (APR / 12)
         short numberOfPayments = getNumberOfPayments(); // number of payments (years * 12)
-        double mortgage = principal
-                * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments))
-                / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1); // mortgage formula
 
-        return mortgage; // return the mortgage
+        return principal
+                * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments))
+                / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1); // return the mortgage
     }
 
     public double[] getRemainingBalances() {
