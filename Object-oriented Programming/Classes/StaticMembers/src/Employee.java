@@ -14,6 +14,10 @@ public class Employee {
         numberOfEmployees++;
     }
 
+    public static void printNumberOfEmployees() {
+        System.out.println(numberOfEmployees);
+    }
+
     public int calculateWage(int extraHours) {
         return baseSalary + (hourlyRate * extraHours);
     }
