@@ -16,8 +16,10 @@ public class Main {
     }
 
     public static void show(UIControl control) {
-        TextBox textBox = (TextBox) control;
-        textBox.setText("Hello World");
+        if (control instanceof TextBox) {
+            var textBox = (TextBox) control;
+            textBox.setText("Hello World");
+        }
         System.out.println(control);
     }
 }
