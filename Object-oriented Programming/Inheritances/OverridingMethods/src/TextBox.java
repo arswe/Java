@@ -6,7 +6,7 @@ public class TextBox extends UIControl {
         System.out.println("TextBox");
     }
 
-    @Override
+    @Override // Annotation
     public String toString() {
         return text;
     }
