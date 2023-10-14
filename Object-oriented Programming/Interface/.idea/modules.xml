@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection/ConstructorInjection.iml" filepath="$PROJECT_DIR$/ConstructorInjection/ConstructorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatingAnInterface/CreatingAnInterface.iml" filepath="$PROJECT_DIR$/CreatingAnInterface/CreatingAnInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fields/Fields.iml" filepath="$PROJECT_DIR$/Fields/Fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Interface.iml" filepath="$PROJECT_DIR$/.idea/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodInjection/MethodInjection.iml" filepath="$PROJECT_DIR$/MethodInjection/MethodInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetterInjection/SetterInjection.iml" filepath="$PROJECT_DIR$/SetterInjection/SetterInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TightlyCoupled/TightlyCoupled.iml" filepath="$PROJECT_DIR$/TightlyCoupled/TightlyCoupled.iml" />
+    </modules>
+  </component>
+</project>

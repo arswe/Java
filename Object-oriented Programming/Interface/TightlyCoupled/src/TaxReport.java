@@ -1,5 +1,5 @@
 public class TaxReport {
-    private TaxCalculator calculator;
+    private final TaxCalculator calculator;
 
     public TaxReport() {
         calculator = new TaxCalculator(100_000);

@@ -1,5 +1,5 @@
 public class TaxCalculator {
-    private double taxableIncome;
+    private final double taxableIncome;
 
     public TaxCalculator(double taxableIncome) {
         this.taxableIncome = taxableIncome;
