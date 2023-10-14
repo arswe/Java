@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClassesAndMethods/AbstractClassesAndMethods.iml" filepath="$PROJECT_DIR$/AbstractClassesAndMethods/AbstractClassesAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorsAndInheritance/ConstructorsAndInheritance.iml" filepath="$PROJECT_DIR$/ConstructorsAndInheritance/ConstructorsAndInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalClassesAndMethods/FinalClassesAndMethods.iml" filepath="$PROJECT_DIR$/FinalClassesAndMethods/FinalClassesAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Inheritances.iml" filepath="$PROJECT_DIR$/.idea/Inheritances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleInheritances/MultipleInheritances.iml" filepath="$PROJECT_DIR$/MultipleInheritances/MultipleInheritances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverridingMethods/OverridingMethods.iml" filepath="$PROJECT_DIR$/OverridingMethods/OverridingMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphisms/Polymorphisms.iml" filepath="$PROJECT_DIR$/Polymorphisms/Polymorphisms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UpcastingAndDowncasting/UpcastingAndDowncasting.iml" filepath="$PROJECT_DIR$/UpcastingAndDowncasting/UpcastingAndDowncasting.iml" />
+    </modules>
+  </component>
+</project>
