@@ -3,7 +3,5 @@ public class Main {
         var calculator = new TaxCalculator2023(100_000);
         var report = new TaxReport(calculator);
         report.show();
-
-
     }
 }
