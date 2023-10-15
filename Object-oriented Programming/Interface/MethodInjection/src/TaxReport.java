@@ -1,7 +1,7 @@
 public class TaxReport {
     private TaxCalculator calculator;
 
-    public TaxReport(TaxCalculator calculator) {
+    public TaxReport(TaxCalculator2024 calculator) {
         this.calculator = calculator;
     }
 
