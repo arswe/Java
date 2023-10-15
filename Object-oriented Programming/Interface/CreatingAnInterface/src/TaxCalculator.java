@@ -1,4 +1,3 @@
 public interface TaxCalculator {
-    //
-    double calculateTax();
+    double calculateTax(); // Declaring the interface
 }

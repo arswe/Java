@@ -5,7 +5,7 @@ public class TaxCalculator2023 implements TaxCalculator {
         this.taxableIncome = taxableIncome;
     }
 
-    @Override
+    @Override // Implementing the interface
     public double calculateTax() {
         return taxableIncome * 0.4;
     }
