@@ -1,5 +1,11 @@
 public class TaxReport {
+
+
     private TaxCalculator calculator;
+
+    public void setCalculator(TaxCalculator calculator) {
+        this.calculator = calculator;
+    }
 
     public TaxReport(TaxCalculator calculator) {
         this.calculator = calculator;
@@ -8,9 +14,5 @@ public class TaxReport {
     public void show() {
         var tax = calculator.calculateTax();
         System.out.println(tax);
-    }
-
-    public void setCalculator(TaxCalculator2023 calculator) {
-        this.calculator = calculator;
     }
 }
