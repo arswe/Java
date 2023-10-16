@@ -1,5 +1,5 @@
 public class TaxCalculator2023 extends AbstractTaxCalculator {
-    private double taxableIncome;
+    private final double taxableIncome;
 
     public TaxCalculator2023(double taxableIncome) {
         this.taxableIncome = taxableIncome;

@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        var report = new TaxReport(new TaxCalculator2024(100_000));
+        report.show();
     }
 
     public void doSomething(TaxCalculator calculator) {
-
-        System.out.println("Hello world!");
+        calculator.calculateTax();
     }
 }

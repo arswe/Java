@@ -1,5 +1,5 @@
 public class TaxCalculator2024 implements TaxCalculator {
-    private double taxableIncome;
+    private final double taxableIncome;
 
     public TaxCalculator2024(double taxableIncome) {
         this.taxableIncome = taxableIncome;
