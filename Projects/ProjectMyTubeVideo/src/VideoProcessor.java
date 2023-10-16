@@ -1,8 +1,8 @@
 
 public class VideoProcessor {
-    private VideoEncoder encoder;
-    private VideoDatabase database;
-    private NotificationService notificationService;
+    private final VideoEncoder encoder;
+    private final VideoDatabase database;
+    private final NotificationService notificationService;
 
     public VideoProcessor(
             VideoEncoder encoder,
