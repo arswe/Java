@@ -1,5 +1,5 @@
 public class User implements Comparable<User> {
-    private int points;
+    private final int points;
 
     public User(int points) {
         this.points = points;
