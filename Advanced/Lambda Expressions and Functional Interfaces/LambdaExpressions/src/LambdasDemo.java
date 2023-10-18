@@ -1,9 +1,9 @@
 public class LambdasDemo {
     public static void show() {
         // lambda expression
-        greet(System.out::println);
+        greet(message -> System.out.println(message));
 
-        Printer printer = System.out::println;
+        Printer printer = message -> System.out.println(message);
     }
 
     public static void greet(Printer printer) {
