@@ -10,8 +10,18 @@ public class MapDemo {
         map.put(c1.getEmail(), c1);
         map.put(c2.getEmail(), c2);
 
-        map.replace("e1", new Customer("a++", "e1"));
-        System.out.println(map);
+//        for (var key : map.keySet())
+//            System.out.println(key);
+
+//        for (var entry : map.entrySet())
+//            System.out.println(entry);
+//            System.out.println(entry.getKey());
+
+        for (var customer : map.values())
+            System.out.println(customer);
+
+//        map.replace("e1", new Customer("a++", "e1"));
+//        System.out.println(map);
 
 //        var customer = map.get("e1");
 
