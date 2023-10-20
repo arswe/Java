@@ -9,7 +9,6 @@ public class SlicingStreamsDemo {
                 new Movie("c", 30)
         );
 
-
         // 100 movies
         //  10 movies per page
         //  3rd pages
