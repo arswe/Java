@@ -19,7 +19,7 @@ public class SlicingStreamsDemo {
                 // .skip(2)
 //                .skip(20)
 //                .limit(10)
-                .takeWhile(movie -> movie.getLikes() < 30)
+                .dropWhile(movie -> movie.getLikes() < 30)
                 .forEach(movie -> System.out.println(movie.getTitle()));
     }
 }
