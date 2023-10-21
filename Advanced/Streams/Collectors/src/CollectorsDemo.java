@@ -1,5 +1,4 @@
 import java.util.List;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class CollectorsDemo {
@@ -12,10 +11,13 @@ public class CollectorsDemo {
 
 
         var result = movies.stream()
-                .filter(m -> m.getLikes() > 15)
+                .filter(m -> m.getLikes() > 10)
 //                .collect(Collectors.toMap(Movie::getTitle, m -> m))
 //                .collect(Collectors.toMap(Movie::getTitle, Function.identity()));
-                .collect((Collectors.summarizingInt(Movie::getLikes)));
+//                .collect((Collectors.summarizingInt(Movie::getLikes)));
+                .map(Movie::getTitle)
+                .collect(Collectors.joining(", "));
         System.out.println(result);
+
     }
 }
