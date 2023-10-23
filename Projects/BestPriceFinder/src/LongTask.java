@@ -6,4 +6,12 @@ public class LongTask {
             throw new RuntimeException(e);
         }
     }
+
+    public static void simulate(int delay) {
+        try {
+            Thread.sleep(delay);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }
