@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8d8613f-7561-4a45-8b4e-0d51d74be5e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionCreate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionCreate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionCreate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionCreate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionCreate/ExceptionCreate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionCreate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/CatchingMultipleTypesofExceptions/src/ExceptionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/CatchingMultipleTypesofExceptions/src/ExceptionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/CustomExceptions/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/CustomExceptions/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/CustomExceptions/src/ExceptionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/CustomExceptions/src/ExceptionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/CustomExceptions/src/InsufficientFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/CustomExceptions/src/InsufficientFundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/ExceptionDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/ExceptionDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Advanced/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Advanced/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/Fields/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/Fields/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/ProjectMyTubeVideo/src/VideoDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/ProjectMyTubeVideo/src/VideoDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bascis/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ClassesAndObjects/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ClassesAndObjects/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Clean Coding/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ComparisonOperators/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Constants/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LogicalOperators/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Project- Mortgage Calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/EmailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/NotificationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/SqlVideoDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/VideoDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/VideoEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/VideoProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ProjectMyTubeVideo/XVideoEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/types/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2WveurUOzpuH6371oAAGcArTCpG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8d8613f-7561-4a45-8b4e-0d51d74be5e2" name="Changes" comment="" />
+      <created>1697617708642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697617708642</updated>
+    </task>
+    <servers />
+  </component>
+</project>

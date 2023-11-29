@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec575418-e756-4645-9a71-6c6482d37905" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Advanced/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Advanced/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/Fields/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/Fields/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/ProjectMyTubeVideo/src/VideoDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/ProjectMyTubeVideo/src/VideoDatabase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2Wqu7YPgrWp44veQ9p98qKjg4u1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec575418-e756-4645-9a71-6c6482d37905" name="Changes" comment="" />
+      <created>1697472264451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697472264451</updated>
+    </task>
+    <servers />
+  </component>
+</project>
