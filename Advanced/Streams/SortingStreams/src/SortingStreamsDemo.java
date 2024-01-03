@@ -10,7 +10,6 @@ public class SortingStreamsDemo {
                 new Movie("d", 25),
                 new Movie("f", 30),
                 new Movie("e", 35)
-
         );
 
         movies.stream()

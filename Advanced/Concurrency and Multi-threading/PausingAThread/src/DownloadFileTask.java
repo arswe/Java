@@ -7,7 +7,7 @@ public class DownloadFileTask implements Runnable {
         // Pausing a Thread for a period of time
 
         try {
-            Thread.sleep(5000);
+            Thread.sleep(5000); // 5 seconds
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }

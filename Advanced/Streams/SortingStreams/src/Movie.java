@@ -5,7 +5,6 @@ public class Movie implements Comparable<Movie> {
     public Movie(String title, int likes) {
         this.title = title;
         this.likes = likes;
-
     }
 
     public int getLikes() {
@@ -25,5 +24,4 @@ public class Movie implements Comparable<Movie> {
     public int compareTo(Movie o) {
         return 0;
     }
-
 }

@@ -1,5 +1,3 @@
-
-
 public class InterruptingDemo {
     public static void show() {
         Thread thread = new Thread(new DownloadFileTask());

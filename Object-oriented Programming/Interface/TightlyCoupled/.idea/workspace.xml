@@ -5,7 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b095057a-3c93-41fd-ba3f-a63132db02af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../MultipleInheritances/src/AnimalTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultipleInheritances/src/AnimalTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Concurrency and Multi-threading/InterruptingThread/src/InterruptingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Concurrency and Multi-threading/InterruptingThread/src/InterruptingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Concurrency and Multi-threading/PausingAThread/src/DownloadFileTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Concurrency and Multi-threading/PausingAThread/src/DownloadFileTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/ExceptionCreate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/ExceptionCreate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/ExceptionCreate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/ExceptionCreate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/ExceptionCreate/ExceptionCreate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/ExceptionCreate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/CatchingMultipleTypesofExceptions/src/ExceptionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Exceptions/CatchingMultipleTypesofExceptions/src/ExceptionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/CustomExceptions/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Exceptions/CustomExceptions/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/CustomExceptions/src/ExceptionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Exceptions/CustomExceptions/src/ExceptionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/CustomExceptions/src/InsufficientFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Exceptions/CustomExceptions/src/InsufficientFundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/ExceptionDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Exceptions/ExceptionDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Lambda Expressions and Functional Interfaces/MethodReferences/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Lambda Expressions and Functional Interfaces/MethodReferences/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Streams/SortingStreams/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Streams/SortingStreams/src/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Streams/SortingStreams/src/SortingStreamsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Streams/SortingStreams/src/SortingStreamsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/Streams/StreamCreate/src/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced/Streams/StreamCreate/src/StreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/out/production/Advanced/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced/out/production/Advanced/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fields/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fields/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/ProjectMyTubeVideo/src/VideoDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/ProjectMyTubeVideo/src/VideoDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Bascis/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ClassesAndObjects/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ClassesAndObjects/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Clean Coding/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ComparisonOperators/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Constants/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/LogicalOperators/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Project- Mortgage Calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/EmailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/NotificationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/SqlVideoDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/VideoDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/VideoEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/VideoProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/ProjectMyTubeVideo/XVideoEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/types/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +67,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2LuZcc5jyaHjtMBE4sQg1VnBukc" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,6 +91,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
