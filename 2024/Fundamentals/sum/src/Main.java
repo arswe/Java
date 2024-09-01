@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("start java programming with 2024!");
+        System.out.println("java programming with 2024!");
     }
 }
