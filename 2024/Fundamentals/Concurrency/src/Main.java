@@ -25,7 +25,9 @@ class Worker implements Runnable {
         lock.lock();
         try {
             for (int i = 0; i < 10; i++) {
+                System.out.println("Output:");
                 System.out.println(Thread.currentThread().getName() + " " + i);
+
             }
         } finally {
             lock.unlock();
