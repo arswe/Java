@@ -4,7 +4,7 @@ public class Main {
         float myFloatNum = 5.99f;    // floating point number
         char myLetter = 'D';         // character
         boolean myBool = true;       // boolean
-        String myText = "Hello";     // String
+        String myText = "Hello akiad";     // String
         System.out.println(myNum);
         System.out.println(myFloatNum);
         System.out.println(myLetter);
