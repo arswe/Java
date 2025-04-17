@@ -5,7 +5,7 @@ public class Main {
         char myLetter = 'D';         // character
         boolean myBool = true;       // boolean
 
-        String myText = "Fullstack Heroes";     // String
+        String myText = "Fullstack Developers";     // String
         System.out.println(myNum);
         System.out.println(myFloatNum);
         System.out.println(myLetter);
